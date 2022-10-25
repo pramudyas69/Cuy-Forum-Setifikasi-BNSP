@@ -16,7 +16,7 @@ untuk mereka berekspresi atau menanyakan struggle yang mereka alamai ssaat codin
 Silahkan fork terlebih dahulu repository ini, kemudian clone repository yang udah kalian fork ya (Inget repository yang kalian fork, bukan repository ini). 
 Bisa gunakan command berikut:
 ```bash
-git clone 
+git clone https://github.com/pramudyas69/Cuy-Forum-Setifikasi-BNSP.git
 
 Kemudian, buka terminal seperti bash, zsh, command prompt atau powershell dan nstall dependency composer dengan command berikut
 ```bash
